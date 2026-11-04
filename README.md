@@ -48,3 +48,13 @@ This comparison was made by eye from the scan and may not be complete.
 ## Fonts
 
 The stylesheet embeds Pinyon Script, Petit Formal Script and Old Standard TT, all licensed under the [SIL Open Font License](https://openfontlicense.org/). The script fonts approximate the manuscript's hand; they do not reproduce it, and line breaks differ from the original.
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** The law of 1888, from the Câmara dos Deputados. Believed to be in the public domain. Details are under Sources above.
+- **Images:** The manuscript in the Arquivo Nacional, from a public-domain scan on Wikimedia Commons.
+- **Fonts:** Pinyon Script, Petit Formal Script and Old Standard TT, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
